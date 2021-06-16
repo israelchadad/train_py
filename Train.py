@@ -219,8 +219,7 @@ def weight_of_word(string):
 
 print(weight_of_word('aaa bb'))
 
-
-
+print("test to github")
 
 
 
